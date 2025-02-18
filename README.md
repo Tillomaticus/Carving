@@ -20,7 +20,7 @@ You have a rotating stone in the middle, touch to slide the knife and start carv
 
 <div style="text-align:center;">
    <img src="https://github.com/user-attachments/assets/e81c5e0e-9e4d-4e39-b543-8dda9efb32dd" alt="alt text" width="300"/>
-   <p>Kinfe carving</p>
+   <p>Knife carving</p>
 </div>
 
 ## 🛠️ How its build
@@ -46,9 +46,10 @@ But since the performance currently is keeping up, I will focus on other tasks f
 
 ## 🚀 Whats next? 
 - Creating a goal: Having a template that you have to match, like carving a vase or something like that.
-- Experiment with higher mesh resolution
-- UI
 - Shading issues with the dynamic mesh
+- Experiment with higher mesh resolution
+- Polishing (Especially knife animation & jumpiness while carving)
+- UI
 - Visuals
 - Different materials to choose from (metal, stone, ice, wood)
 - Performance optimizations (if necessary)
