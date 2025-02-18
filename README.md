@@ -9,18 +9,19 @@ I went with a very minimal idea, something that focuses more on technical aspect
 ## 🕹️ What it does
 You have a rotating stone in the middle, touch to slide the knife and start carving off the edges. Slide your finger on the side to move the knife vertically to carve on different heights.
 
+Screenshots from the Game View
 <div style="text-align:center;">
    <img src="https://github.com/Tillomaticus/Carving/blob/main/Carving.gif" alt="alt text" width="300"/>
 </div>
 
+Mesh deformation
 <div style="text-align:center;">
    <img src="https://github.com/user-attachments/assets/596636fe-a48c-4edb-8652-bb33acb59b1c" alt="alt text" width="300"/>
-   <p>Mesh deformation</p>
 </div>
 
+Knife carving
 <div style="text-align:center;">
    <img src="https://github.com/user-attachments/assets/e81c5e0e-9e4d-4e39-b543-8dda9efb32dd" alt="alt text" width="300"/>
-   <p>Knife carving</p>
 </div>
 
 ## 🛠️ How its build
