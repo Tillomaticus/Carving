@@ -10,8 +10,7 @@ I went with a very minimal idea, something that focuses more on technical aspect
 You have a rotating stone in the middle, touch to slide the knife and start carving off the edges. Slide your finger on the side to move the knife vertically to carve on different heights.
 
 <div style="text-align:center;">
-   <img src="https://github.com/user-attachments/assets/1fad7dd5-277d-44c9-9e78-4660c2bbd4e5" alt="alt text" width="300"/>
-   <p>The protoype game view</p>
+   <img src="https://github.com/Tillomaticus/Carving/blob/main/Carving.gif" alt="alt text" width="300"/>
 </div>
 
 <div style="text-align:center;">
